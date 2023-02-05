@@ -8,4 +8,4 @@ while IFS=  read -r -d $'\0'; do
     fi
 done < <(find . -maxdepth 1 -type f -name "docker-compose.*.yml" -print0)
 
-docker-compose $args $@
+docker compose $args $@
