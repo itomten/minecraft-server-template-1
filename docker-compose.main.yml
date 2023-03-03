@@ -12,7 +12,7 @@ services:
       SERVER_NAME: main
       CFG_SERVER_NAME: main
       MEMORY: ${MEMORY:-8G}
-      #CFG_SERVER_NAME: Main
+      CFG_SERVER_NAME: Main
     volumes:
       - ./servers/main:/data:z
       - ./schematics:/data/plugins/WorldEdit/schematics:z
