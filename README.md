@@ -1,4 +1,4 @@
-# Minecraft Server Template
+# My fork of Minecraft Server Template
 
 [![Spiget Downloads](https://img.shields.io/spiget/downloads/88587)](https://www.spigotmc.org/resources/88587/)
 [![Spiget Rating](https://img.shields.io/spiget/rating/88587)](https://www.spigotmc.org/resources/88587/)
